@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRM-Maven-Cucumber.iml" filepath="$PROJECT_DIR$/CRM-Maven-Cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selenium-Scripts/selenium-scripts.iml" filepath="$PROJECT_DIR$/Selenium-Scripts/selenium-scripts.iml" />
+    </modules>
+  </component>
+</project>
